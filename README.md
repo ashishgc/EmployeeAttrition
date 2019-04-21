@@ -1,4 +1,5 @@
 # EmployeeAttrition
-![https://www.cnbc.com/2019/02/18/chinas-jan-car-sales-fall-nearly-16percent-from-2018-7th-month-of-decline.html]
+![image.png](https://imgd.aeplcdn.com/642x361/cw/ec/38071/Highest-selling-cars-of-India-in-2018-146756.jpg?wm=1&q=85)
+
 
 
